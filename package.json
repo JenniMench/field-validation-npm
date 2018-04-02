@@ -1,5 +1,5 @@
 {
-  "name": "validation",
+  "name": "field-validation-npm",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.tsx",
