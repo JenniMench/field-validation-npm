@@ -1,0 +1,9 @@
+label {
+  margin-right: 10px;
+}
+.singleField {
+  margin-bottom: 10px;
+}
+.invalid {
+  color: red;
+}
