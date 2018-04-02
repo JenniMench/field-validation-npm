@@ -1,13 +1,16 @@
 {
   "name": "field-validation-npm",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "This project is for practicing npm module creation",
   "main": "src/index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jennilyn Menchavez <jenny.lovechimera21@gmail.com>",
+  "repository": "github:JenniMench/field-validation-npm",
+  "keywords": ["validator", "input"],
   "license": "MIT",
+  "homepage": "https://github.com/JenniMench/field-validation-npm",
   "devDependencies": {
     "@types/react": "^16.0.41",
     "@types/react-dom": "^16.0.4",
